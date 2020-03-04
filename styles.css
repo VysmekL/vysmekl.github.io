@@ -1,0 +1,69 @@
+/* Body */
+body {
+    background-image: url("assets/background.png");
+    font-family: Courier Prime;
+    font-size: 20px;
+}
+
+/* Separator */
+hr {
+    width: 20px;
+    border: 0;
+    border-top: 2px dashed;
+    padding: 20px 0;
+}
+
+/* Menu - Navigation */
+nav {
+    background-color: #333333;
+    height: 60px;
+    overflow: hidden;
+}
+
+/* Links navigation */
+nav a {
+    color: #ff0099;
+    text-transform: uppercase;
+    margin-right: 50px;
+}
+
+/* Main */
+main {
+    padding: 1% 10% 10% 10%;
+}
+
+/* Headings */
+h1 {
+    font-size: 60px;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+h3 {
+    font-size: 30px;
+}
+
+/* About me class */
+.about {
+    color: #ff0099;
+}
+
+/* Wiki class */
+.wiki {
+    text-align: center;
+}
+
+/* Menu - Links */
+.menu {
+    margin-bottom: 30px;
+    padding: 0 10% 0 0;
+    text-align: right;
+    line-height: 60px;
+}
+
+.logo {
+    padding: 10px 0 0 10%;
+    float: left;
+}
